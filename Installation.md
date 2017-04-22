@@ -1,6 +1,3 @@
-OpenSupports Installation
-===================
-
 The installation of OpenSupports is very simple to do. You only need a web server that supports PHP and MySQL.  It generally works with most shared hosting providers.
 
 ----------
