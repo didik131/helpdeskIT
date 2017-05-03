@@ -10,6 +10,7 @@ To install OpenSupports you need to support the following:
 * PHP 5.6+
 * MySQL 4.1+
 * PDO Extension
+* Apache 2.4+
 
 Download installation files
 -------------
