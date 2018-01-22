@@ -7,7 +7,7 @@ Upgrading from one OpenSupports version to another consists in replacing the cur
 3. Execute [this script](https://github.com/opensupports/opensupports/blob/master/version_upgrades/4.1.0/4.1.0.sql) in your OpenSupports' MySQL database.
 4. Upgrade should be complete. If you had some issues, feel free to open a ticket here at github.
 
-## Upgrade v4.1.0 -> v4.1.2
+## Upgrade v4.1.1 -> v4.1.2
 
 1. Download the upgrade [zip file](https://github.com/opensupports/opensupports/releases/download/v4.1.2/opensupports_v4.1.2_update.zip)
 2. Replace the OpenSupports files in your server with the content of the zip file.
