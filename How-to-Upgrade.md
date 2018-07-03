@@ -27,4 +27,6 @@ $ php 4.1.2.php
 
 ## Upgrade v4.1.2 -> v4.1.3
 
-DOCUMENTATION IN PROGRESS. PLEASE WAIT UNTIL WE'RE FINISHED WITH THE UPDATE SCRIPT.
+_Documentation in Progress_
+
+Please wait until we're finished with the upgrade script for `v4.1.3`.
