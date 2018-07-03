@@ -23,3 +23,8 @@ $ php 4.1.2.php
 ```
 5. After script in run, remove the folder `version_upgrades`
 6. Upgrade should be complete. If you had some issues, feel free to open a ticket here at github.
+
+
+## Upgrade v4.1.2 -> v4.1.3
+
+IN PROGRESS, PLEASE WAIT UNTIL WE'RE FINISHED WITH THE UPDATE SCRIPT.
