@@ -1,6 +1,6 @@
 Upgrading from one OpenSupports version to another consists in replacing the current files on your server and sometimes run a `.sql` script to upgrade your MySQL database.
 
-## Upgrade v4.0b => v4.1
+## Upgrade v4.0b -> v4.1
 1. Do a database backup before upgrading for safety
 2. Download the upgrade [zip file](https://github.com/opensupports/opensupports/releases/download/v4.1.0/opensupports_v4.1_update.zip)
 3. Replace the OpenSupports files in your server with the content of the zip file.
