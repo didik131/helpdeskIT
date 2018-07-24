@@ -1,4 +1,4 @@
-If you want to add a translation for OpenSupports, you'll need to [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/) to this repository from a fork with the necessary code changes.
+If you want to add a translation for OpenSupports, you'll need to [create a Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) to this repository from a fork with the necessary code changes.
 
 The changes that need to be made are the following:
 1. Create corresponding `.js` translation file in the folder [client/src/data/languages](https://github.com/opensupports/opensupports/tree/master/client/src/data/languages), you can take `en.js` as a template. Please use a two-letter code for each language. The language code should mirror [famfamfam flag icons](http://www.famfamfam.com/lab/icons/flags/).
