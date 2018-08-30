@@ -1,4 +1,4 @@
-Upgrading from one OpenSupports version to another consists in replacing the current files on your server and sometimes run a `.sql` script to upgrade your MySQL database.
+Upgrading from one OpenSupports version to another consists in replacing the current files on your server and sometimes run a `.php` script to upgrade your MySQL database.
 
 ## Upgrade v4.0b -> v4.1
 1. Do a database backup before upgrading for safety
