@@ -35,7 +35,7 @@ Upgrading from one OpenSupports version to another consists in replacing the cur
 5. After the script is done, remove the folder `version_upgrades`
 6. Upgrade should be complete. If you had some issues, feel free to open a ticket here at github.
 
-## Upgrade v4.2.0 -> v4.2.1
+## Upgrade v4.2.0 -> v4.2.1 HOTFIX
 
 1. Download the upgrade [zip file](https://github.com/opensupports/opensupports/releases/download/v4.2.1/opensupports_v4.2.1_update.zip)
 2. Merge and replace the OpenSupports files in your server with the content of the zip file.
