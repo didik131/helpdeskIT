@@ -25,3 +25,11 @@
  9. Click on "YES" button on "Confirm Action" box
  
 ![enter link description here](https://s3.amazonaws.com/opensupports/wiki-images/EditStaff.gif)
+
+## Create a new department ##
+ 1. Go to "Staff"
+ 2. Go to "Departments"
+ 3. Input some Name
+ 4. Click on "Add department" button
+ 
+![enter link description here](https://s3.amazonaws.com/opensupports/wiki-images/NewDepartment.gif)
