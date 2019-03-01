@@ -23,7 +23,7 @@ Using the installation wizard
 -------------------
 The installation wizard will assist you to install and configure OpenSupports in your server.
 
-![installation gif](http://www.opensupports.com/gifs/install1.gif)
+![installation gif](https://s3.amazonaws.com/opensupports/wiki-images/install1.gif)
 
 #### 1. Select Language
 You have to first select your language of preference for the installation and the system in general.
@@ -35,7 +35,7 @@ In this step, the server requirements will be checked. If everything looks fine,
 #### 3. Database configuration
 Here you have to provide the information for your MySQL database. The MySQL server, generally just `localhost`, an user and password and the database name (it will try to create it automatically if it is left empty)
 
-![installation gif](http://www.opensupports.com/gifs/install2.gif)
+![installation gif](https://s3.amazonaws.com/opensupports/wiki-images/install2.gif)
 
 #### 4. User System
 Select your preferences for the user system. Determine if you want users to register in order to create tickets or not. You can also disable registration if you want (users can be created by other ways).
