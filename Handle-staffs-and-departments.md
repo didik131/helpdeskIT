@@ -34,3 +34,11 @@
  5. Click on "Add department" button
  
 ![falta el privado , ya existe]()
+
+## Delete a department ##
+ 1. Go to "Staff"
+ 2. Go to "Departments"
+ 3. Click on department's name you want to delete
+ 4. Click on "Delete" button
+ 
+![borrar]()
