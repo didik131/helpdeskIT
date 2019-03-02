@@ -25,6 +25,8 @@ Statistics
 
  - **Replies** indicates the number of tickets that have been answered during the last days.
 
+ Also you can see choose to see the last 7 days or 30 days  
+
 Last Activity
 -------
 ![last activity]()
