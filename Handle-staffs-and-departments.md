@@ -26,6 +26,14 @@
  
 ![enter link description here](https://s3.amazonaws.com/opensupports/wiki-images/EditStaff.gif)
 
+## Filter by Department ##
+ 1. Go to "Staff"
+ 2. Go to "Departments"
+ 3. Click on department list.
+ 4. Choose the department you want to filter from.
+ 
+![gif of filter ]()
+
 ## Create a new department ##
  1. Go to "Staff"
  2. Go to "Departments"
