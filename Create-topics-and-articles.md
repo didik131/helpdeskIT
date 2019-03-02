@@ -1,4 +1,4 @@
-How to create Topics and Acticles
+How to create Topics and Articles
 =======
 
 ## Create a topic ##
