@@ -67,6 +67,9 @@ A custom response is a template used when you need to respond a frequently asked
  6. Choose the custom response you are looking for.
  7. Click on "RESPOND TICKET" button
 
+How to handle custom tags
+=======
+
 ## Create a new Custom Tag ##
  
 ![Create a new custom tag ](https://s3.amazonaws.com/opensupportstomResponse.gif)
