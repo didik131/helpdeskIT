@@ -30,6 +30,7 @@
  1. Go to "Staff"
  2. Go to "Departments"
  3. Input some Name
- 4. Click on "Add department" button
+ 4. Click or not on "Private" checkbox 
+ 5. Click on "Add department" button
  
-![enter link description here](https://s3.amazonaws.com/opensupports/wiki-images/NewDepartment.gif)
+![falta el privado , ya existe]()
