@@ -11,6 +11,16 @@ How to add a new user
  6. Input some password and repeat it
  7. Click on "SIGN UP" button
 
+How to find some user by keyword
+=======
+
+![fidn by keyword]()
+
+ 1. Go to "Users"
+ 2. Go to "List Users"
+ 3. Click on search box.
+ 4. Type the text you want to filter from.
+
 How to ban and unban an user
 =======
 ![enter link description here](https://s3.amazonaws.com/opensupports/wiki-images/BanEmail.gif)
