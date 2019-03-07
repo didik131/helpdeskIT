@@ -35,7 +35,7 @@ How to filter tickets
 How to show Closed Tickets
 =======
 
-![CLICK CLOSED OPTION]()
+![CLICK CLOSED OPTION](https://s3.amazonaws.com/opensupports/wiki-images/view_tickets.gif)
  1. Go to "Tickets"
  2. Go to "All tickets"/"My Tickets"
  3. Click on "Show Closed Tickets" checkbox
@@ -72,7 +72,7 @@ How to handle custom tags
 
 ## Create a new Custom Tag ##
  
-![Create a new custom tag ](https://s3.amazonaws.com/opensupportstomResponse.gif)
+![Create a new custom tag ](https://s3.amazonaws.com/opensupports/wiki-images/create-ticket-admin.gif)
  
  1. Go to "Tickets"
  2. Go to "Custom Tags"
@@ -83,7 +83,7 @@ How to handle custom tags
 
 ## Delete a Custom Tag ##
  
-![delete a custom tag ](https://s3.amazonaws.com/opensupportstomResponse.gif)
+![delete a custom tag ](https://s3.amazonaws.com/opensupports/wiki-images/delete-custom-tags.gif)
  
  1. Go to "Tickets"
  2. Go to "Custom Tags"
