@@ -1,7 +1,7 @@
 How to create a new ticket
 =======
 
-![create ticket ](create ticket)
+![create ticket ](https://s3.amazonaws.com/opensupports/wiki-images/create-ticket-admin.gif)
  1. Go to "Tickets"
  2. Go to "My tickets"
  3. Click on "Create Ticket" button
