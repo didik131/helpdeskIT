@@ -49,4 +49,4 @@
  3. Click on department's name you want to delete
  4. Click on "Delete" button
  
-![borrar]()
+![borrar](https://s3.amazonaws.com/opensupports/wiki-images/delete-department.gif)
