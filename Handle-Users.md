@@ -1,7 +1,7 @@
 
 How to add a new user
 =======
-![add a new user]()
+![add a new user](https://s3.amazonaws.com/opensupports/wiki-images/add-user-admin.gif)
 
  1. Go to "Users"
  2. Go to "List Users"
@@ -14,7 +14,7 @@ How to add a new user
 How to find some user by keyword
 =======
 
-![fidn by keyword]()
+![fidn by keyword](https://s3.amazonaws.com/opensupports/wiki-images/search-users.gif)
 
  1. Go to "Users"
  2. Go to "List Users"
@@ -43,7 +43,7 @@ Custom field is used when you need to identify users with some specify field
 
 ## Create a custom field ##
 
-![create custom fields ]()
+![create custom fields ](https://s3.amazonaws.com/opensupports/wiki-images/create-custom-field.gif)
 
  1. Go to "Users"
  2. Go to "Custom fields"
@@ -55,7 +55,7 @@ Custom field is used when you need to identify users with some specify field
 
  ## Delete a custom field ##
 
- ![delete custom fields ]()
+ ![delete custom fields ](https://s3.amazonaws.com/opensupports/wiki-images/delete-custom-field.gif)
 
   1. Go to "Users"
   2. Go to "Custom fields"
