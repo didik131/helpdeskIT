@@ -33,7 +33,7 @@
  4. Click or not on "Private" checkbox 
  5. Click on "Add department" button
  
-![falta el privado , ya existe]()
+![falta el privado , ya existe](https://s3.amazonaws.com/opensupports/wiki-images/create-private-department.gif)
 
 ## Filter by Department ##
  1. Go to "Staff"
