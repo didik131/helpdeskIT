@@ -22,3 +22,5 @@ For creating tickets from emails, we connect to an IMAP server folder, check the
 6. Click `Save` when you're ready.
 
 Remember to take a look to the infobox below. To parse emails and create tickets, you have to make a POST request to the indicated url and provide the `IMAP Token`. It's recommended to make it frequently, for example you can use a hook that calls it every time an email is received.
+
+Here is a [configuration videotutorial](https://www.youtube.com/watch?v=dEtALRMdOhs) if you need more explanation.
